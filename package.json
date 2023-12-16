@@ -9,10 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@materializecss/materialize": "^2.0.3-beta",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
-  },
-  "dependencies": {
-    "@materializecss/materialize": "^2.0.3-beta"
   }
 }
